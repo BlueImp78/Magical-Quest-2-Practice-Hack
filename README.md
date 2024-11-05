@@ -9,7 +9,7 @@ It has features such as reloading/advancing through rooms, level warp menu on pa
 
 ## Features
 
-#### **Disclaimer:** Support Normal mode, Hard mode or 2-Player routes is not yet implemented.
+#### **Disclaimer:** Support for Normal mode, Hard mode or 2-Player routes is not yet implemented.
 
 - When entering a level/room, the game will set the appropriate values for RNG, number of hearts, active costume and similar, to reflect what the route for the speedrun should have in that room.
 
